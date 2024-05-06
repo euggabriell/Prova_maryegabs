@@ -1,0 +1,25 @@
+.baixo{
+    background-color: #203444;
+    color: white;
+    align-items: center;
+    padding: 15px 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px
+}
+
+.logosesi{
+    position: relative;
+    right: 700px;
+    top: 5px;
+    margin-left: 680px;
+}
+.texto1{
+    position: relative;
+    z-index: 1000;
+    bottom: 50px;
+    font-size: 15px;
+    font-weight: bold;
+}
+

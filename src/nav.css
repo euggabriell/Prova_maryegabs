@@ -1,0 +1,41 @@
+.logosenai{
+  float: left;
+  position: relative;
+  margin-right: 520px;
+
+}
+.menu {
+    background-color: #203444;
+    display: flex;
+    align-items:center;
+    justify-content:right;
+    height: 60px;
+    padding: 0 623px;
+    position: relative;
+    z-index: 2;
+}
+  
+.menu-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    position: relative;
+    left: 620px;
+}
+  
+.item1 {
+    margin-right: 30px;
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+  
+.item1-link{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
